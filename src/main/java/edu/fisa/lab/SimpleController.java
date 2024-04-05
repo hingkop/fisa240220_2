@@ -11,6 +11,6 @@ public class SimpleController {
 	@GetMapping("getdata")
 	public String get() {
 		System.out.println("***********");
-		return "초코송이 짱짱굿~";
+		return "test10";
 	}
 }
